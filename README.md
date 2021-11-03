@@ -13,3 +13,12 @@ Welcome! In this repo you will find all necessary information, the slides, and e
 
 Feel always free to ask questions :)
 
+# Excercise
+
+Erstelle eine Klasse Buch mit den Attributen
+* author
+* title
+* isbn 
+
+und instanziiere 3 Objekte. 
+Lege diese Objekte in einer Liste ab. Prüfe, ob alle Elemente in die Liste aufgenommen wurden.
